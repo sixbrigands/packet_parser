@@ -1,0 +1,5 @@
+﻿pp-ez==0.2.0
+progressbar2==3.53.1
+pyshark==0.4.3
+user-agents==2.2.0
+
